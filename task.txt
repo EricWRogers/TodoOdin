@@ -1,0 +1,4 @@
+0	Brushteeth
+1	Save
+1	Load
+0	Init Repo
